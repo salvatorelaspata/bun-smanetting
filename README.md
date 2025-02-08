@@ -6,6 +6,14 @@ To install dependencies:
 bun install
 ```
 
+Configure environment variables:
+
+```bash
+cp .env.example .env
+```
+
+Edit the `.env` file with your own values.
+
 To run:
 
 ```bash
